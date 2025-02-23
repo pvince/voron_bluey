@@ -2,3 +2,4 @@ gcodes-*.zip
 printer-*.cfg
 ShakeTune_results/**
 *.bkp
+*.backup
